@@ -1,0 +1,6 @@
+{
+  "name": "WellNest – Design Your Own Wellness Product",
+  "description": "A beginner-friendly wellness website with personalized assessments, custom product recommendations, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
